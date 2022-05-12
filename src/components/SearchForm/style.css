@@ -1,0 +1,18 @@
+.form_search{
+    
+}
+.form_search input{
+    border: none;
+    outline: none;
+    border-radius: 10px 0 0 10px;
+    width: 200px;
+    padding: 10px;
+   
+}
+.form_search button{
+    border-radius: 0 10px 10px 0;
+    padding: 10px;
+    background: #047AF6;
+    border: none;
+   
+}
